@@ -328,7 +328,7 @@ Transform:
   m_GameObject: {fileID: 519420028}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -13.63, y: -1.32, z: -10}
+  m_LocalPosition: {x: -13.44, y: -1.33, z: -10}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -407,7 +407,7 @@ GameObject:
   - component: {fileID: 556071133}
   - component: {fileID: 556071134}
   - component: {fileID: 556071135}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Tilemap
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -34213,7 +34213,7 @@ Transform:
   m_GameObject: {fileID: 1357479247}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -13.63, y: -1.32, z: -10}
+  m_LocalPosition: {x: -13.44, y: -1.33, z: -10}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
@@ -34425,11 +34425,11 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 266959707552420195, guid: 41a31eec796abcc47a2a21065e39aa8f, type: 3}
       propertyPath: m_LocalPosition.x
-      value: -13.63
+      value: -13.44
       objectReference: {fileID: 0}
     - target: {fileID: 266959707552420195, guid: 41a31eec796abcc47a2a21065e39aa8f, type: 3}
       propertyPath: m_LocalPosition.y
-      value: -1.32
+      value: -1.33
       objectReference: {fileID: 0}
     - target: {fileID: 266959707552420195, guid: 41a31eec796abcc47a2a21065e39aa8f, type: 3}
       propertyPath: m_LocalPosition.z
@@ -34540,6 +34540,18 @@ PrefabInstance:
     - target: {fileID: 854568850382796322, guid: 6f69d8be23ddaa64bae9f4b5af6afdcf, type: 3}
       propertyPath: m_Name
       value: checkpoint_park_bench
+      objectReference: {fileID: 0}
+    - target: {fileID: 5930277553584027470, guid: 6f69d8be23ddaa64bae9f4b5af6afdcf, type: 3}
+      propertyPath: m_Color.b
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5930277553584027470, guid: 6f69d8be23ddaa64bae9f4b5af6afdcf, type: 3}
+      propertyPath: m_Color.g
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5930277553584027470, guid: 6f69d8be23ddaa64bae9f4b5af6afdcf, type: 3}
+      propertyPath: m_Color.r
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []

@@ -11,6 +11,8 @@ GameObject:
   - component: {fileID: 499317911512784979}
   - component: {fileID: 5930277553584027470}
   - component: {fileID: 3542829555000095227}
+  - component: {fileID: 3021574323516669952}
+  - component: {fileID: 8092563839907385669}
   m_Layer: 0
   m_Name: checkpoint_park_bench
   m_TagString: 'checkpoint '
@@ -130,3 +132,34 @@ BoxCollider2D:
   serializedVersion: 2
   m_Size: {x: 1, y: 5.9426193}
   m_EdgeRadius: 0
+--- !u!114 &3021574323516669952
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 854568850382796322}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e741851cba3ad425c91ecf922cc6b379, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _data:
+    _json: '{"declarations":{"Kind":"Object","collection":{"$content":[],"$version":"A"},"$version":"A"}}'
+    _objectReferences: []
+--- !u!114 &8092563839907385669
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 854568850382796322}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d2fe5546f775c47d2820aa5e8a715f53, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _data:
+    _json: '{"nest":{"source":"Macro","macro":0,"embed":null}}'
+    _objectReferences:
+    - {fileID: 11400000, guid: 9b1a2aeb8b5b3664a9547eda5cc28b37, type: 2}
