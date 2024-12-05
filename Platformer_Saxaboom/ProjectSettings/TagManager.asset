@@ -6,6 +6,9 @@ TagManager:
   tags:
   - 'checkpoint '
   - killbox
+  - J
+  - A
+  - Z
   layers:
   - Default
   - TransparentFX
