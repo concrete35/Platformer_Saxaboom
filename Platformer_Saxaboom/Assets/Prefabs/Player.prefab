@@ -345,7 +345,7 @@ MonoBehaviour:
       UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null","$version":"A"},"$version":"A"}],"$version":"A"},"$version":"A"}}'
     _objectReferences:
     - {fileID: 1139479133530941688}
-    - {fileID: 0}
+    - {fileID: 854568850382796322, guid: 6f69d8be23ddaa64bae9f4b5af6afdcf, type: 3}
 --- !u!114 &5835365013572050071
 MonoBehaviour:
   m_ObjectHideFlags: 0
