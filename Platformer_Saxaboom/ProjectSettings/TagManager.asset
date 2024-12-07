@@ -9,6 +9,7 @@ TagManager:
   - J
   - A
   - Z
+  - interactable
   layers:
   - Default
   - TransparentFX
