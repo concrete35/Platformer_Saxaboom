@@ -10,6 +10,8 @@ TagManager:
   - A
   - Z
   - interactable
+  - Bullet
+  - Checkpoint
   layers:
   - Default
   - TransparentFX
