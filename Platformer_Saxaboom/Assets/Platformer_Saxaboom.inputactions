@@ -141,6 +141,17 @@
                     "action": "schießen",
                     "isComposite": false,
                     "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "9545d912-d62f-4d58-b0cd-952e1fcbc4cf",
+                    "path": "<Gamepad>/rightTrigger",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "schießen",
+                    "isComposite": false,
+                    "isPartOfComposite": false
                 }
             ]
         },
