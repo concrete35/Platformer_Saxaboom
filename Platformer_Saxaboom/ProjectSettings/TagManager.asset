@@ -12,6 +12,7 @@ TagManager:
   - interactable
   - Bullet
   - Checkpoint
+  - gegner
   layers:
   - Default
   - TransparentFX
