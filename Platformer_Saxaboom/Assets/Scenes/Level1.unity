@@ -39606,6 +39606,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: checkpoint_park_bench
       objectReference: {fileID: 0}
+    - target: {fileID: 5930277553584027470, guid: 6f69d8be23ddaa64bae9f4b5af6afdcf, type: 3}
+      propertyPath: m_SortingOrder
+      value: -1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -65161,6 +65165,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: checkpoint_park_bench (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 5930277553584027470, guid: 6f69d8be23ddaa64bae9f4b5af6afdcf, type: 3}
+      propertyPath: m_SortingOrder
+      value: -1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -68615,7 +68623,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 5939246020820738021, guid: 37831eaad6284924b88e594dd2835211, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 339.55
+      value: 340.19
       objectReference: {fileID: 0}
     - target: {fileID: 5939246020820738021, guid: 37831eaad6284924b88e594dd2835211, type: 3}
       propertyPath: m_LocalPosition.y
@@ -68961,19 +68969,19 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 3717425444109418080, guid: bbc21a54d5e38cd498d45060ceeccc11, type: 3}
       propertyPath: m_AnchorMax.y
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 3717425444109418080, guid: bbc21a54d5e38cd498d45060ceeccc11, type: 3}
       propertyPath: m_AnchorMin.y
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 3717425444109418080, guid: bbc21a54d5e38cd498d45060ceeccc11, type: 3}
       propertyPath: m_AnchoredPosition.x
-      value: 0
+      value: 258.18298
       objectReference: {fileID: 0}
     - target: {fileID: 3717425444109418080, guid: bbc21a54d5e38cd498d45060ceeccc11, type: 3}
       propertyPath: m_AnchoredPosition.y
-      value: 0
+      value: -674.9
       objectReference: {fileID: 0}
     - target: {fileID: 4095231211123487289, guid: bbc21a54d5e38cd498d45060ceeccc11, type: 3}
       propertyPath: m_AnchorMax.y
@@ -69065,35 +69073,35 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 7965119232458609801, guid: bbc21a54d5e38cd498d45060ceeccc11, type: 3}
       propertyPath: m_AnchorMax.y
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 7965119232458609801, guid: bbc21a54d5e38cd498d45060ceeccc11, type: 3}
       propertyPath: m_AnchorMin.y
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 7965119232458609801, guid: bbc21a54d5e38cd498d45060ceeccc11, type: 3}
       propertyPath: m_AnchoredPosition.x
-      value: 0
+      value: 258.18298
       objectReference: {fileID: 0}
     - target: {fileID: 7965119232458609801, guid: bbc21a54d5e38cd498d45060ceeccc11, type: 3}
       propertyPath: m_AnchoredPosition.y
-      value: 0
+      value: -95
       objectReference: {fileID: 0}
     - target: {fileID: 8708852605446648099, guid: bbc21a54d5e38cd498d45060ceeccc11, type: 3}
       propertyPath: m_AnchorMax.y
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 8708852605446648099, guid: bbc21a54d5e38cd498d45060ceeccc11, type: 3}
       propertyPath: m_AnchorMin.y
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 8708852605446648099, guid: bbc21a54d5e38cd498d45060ceeccc11, type: 3}
       propertyPath: m_AnchoredPosition.x
-      value: 0
+      value: 258.18298
       objectReference: {fileID: 0}
     - target: {fileID: 8708852605446648099, guid: bbc21a54d5e38cd498d45060ceeccc11, type: 3}
       propertyPath: m_AnchoredPosition.y
-      value: 0
+      value: -384.95
       objectReference: {fileID: 0}
     - target: {fileID: 8993332473186903373, guid: bbc21a54d5e38cd498d45060ceeccc11, type: 3}
       propertyPath: m_AnchorMax.y
